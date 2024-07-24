@@ -1,4 +1,4 @@
-# install.packages("readr", "RCurl", "ggh4x", "ggprism")
+# install.packages("readr", "RCurl", "ggplot2", "ggh4x", "ggprism")
 
 ### Load the libraries
 library(readr)
